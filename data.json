@@ -1,0 +1,14 @@
+{
+"menu":[
+{"menus":"kfz service"},
+{"menus":"multimedia"},
+{"menus":"galerie"},
+{"menus":"kontakt"}
+],
+  "icon":[
+  {"icons":"fb"},
+{"icons":"twit"},
+{"icons":"insta"},
+  ]
+
+}
